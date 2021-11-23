@@ -1,0 +1,6 @@
+PATCH http://localhost:5000/api/users/1
+Content-Type: application/json
+
+{
+    "email": "mail4@gmail.com"
+}
